@@ -111,7 +111,7 @@ Na = Avogadro-Konstante""")
             StoffmengeR()
 
     elif mode == "3":
-        print("""Developed by\nJohannes R.\nBenedek T.\nDoctorFuchs""")
+        print("""Developed by\nNoname\nBene\nDoctorFuchs""")
         input("Ende? ")
     
     else:
